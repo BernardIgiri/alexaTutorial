@@ -1,0 +1,1 @@
+Practicing building Alexa skill [following a tutorial from Amazon for a memory game.](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
